@@ -149,7 +149,7 @@ class HomeScreenState extends State<HomeScreen>
             const SizedBox(height: 50),
             ElevatedButton(
               onPressed: _spinRoulette,
-              child: const Text('まわす'),
+              child: const Text('まわすまわす'),
             ),
           ],
         ),
